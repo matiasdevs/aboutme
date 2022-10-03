@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @matiasmatiashub
+- 👋 Hi, I’m Matias!
 - 👀 I’m currently focusing on Front-End Development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on new projects
+- 🌱 I’m currently learning Javascript and looking for opportunities.
+- 💞️ I speak English, Spanish and Portuguese fluenty.
 - 📫 You can reach me via me.em@outlook.com
 
 <!---

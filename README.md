@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matiasmatiashub
-- 👀 I’m interested in Salesforce Dev/Admin and Java
-- 🌱 I’m currently learning APEX and Java
+- 👀 I’m currently focusing on Front-End Development
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on new projects
 - 📫 You can reach me via me.em@outlook.com
 

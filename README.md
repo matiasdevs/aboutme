@@ -5,7 +5,7 @@
 ## 🛠 Skills
 - 👩‍💻 I currently work as a web tech support using JavaScript.
 - 🧠 I'm focusing on (slowly) becoming a Full Stack Developer.
-- 🤔 So I'm learning more about JavaScript and its libraries.
+- 🤔 But first I'm starting as a Front-End Developer (with JavaScript, HTML and CSS)
 - 💬 Feel free to reach out to me via email below ⬇
 - 📫 me.em@outlook.com
 

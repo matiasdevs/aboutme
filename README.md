@@ -6,9 +6,7 @@
 - 👩‍💻 I currently work as a web tech support using JavaScript.
 - 🧠 I'm focusing on (slowly) becoming a Full Stack Developer.
 - 🤔 But first I'm starting as a Front-End Developer (with JavaScript, HTML and CSS)
-- 💬 Feel free to reach out to me via email below ⬇
-- 📫 me.em@outlook.com
-
+- 💬 Feel free to reach out to me via email: me.em@outlook.com
 - ⚡️ I speak English, Spanish and Portuguese fluenty. I also speak Mandarin. Yahooo!
 
 ## 🔗 Links
@@ -16,6 +14,6 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasdevs/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiasdevs&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiasdevs&theme=dracula)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiasdevs&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiasdevs&theme=dracula)
+

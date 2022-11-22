@@ -14,6 +14,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasdevs/)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiasdevs&theme=dracula)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiasdevs&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiasdevs&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiasdevs&theme=dracula)
 

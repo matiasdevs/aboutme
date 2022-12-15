@@ -2,15 +2,22 @@
 ## 🚀 About me
 - 👋 Hi I'm Matias! Welcome to my repository page!
 
-## 🛠 Skills
-- 👩‍💻 I currently work as a web tech support using JavaScript.
-- 🧠 I'm focusing on (slowly) becoming a Full Stack Developer.
-- 🤔 But first I'm starting as a Front-End Developer (with JavaScript, HTML and CSS)
-- 💬 Feel free to reach out to me via email: me.em@outlook.com
-- ⚡️ I speak English, Spanish and Portuguese fluenty. I also speak Mandarin. Yahooo!
+<img align="right" height="250" width="250" src="https://media.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif" />
+
+```javascript
+let matias = {};
+
+matias.about   = 'a front-end development in progress';
+matias.hobbies = ['Games', 'Manga', 'Standup Paddle', 'Rollers'];
+matias.loves   = ['Family', 'Friends', 'My Cat'];
+matias.stack   = ['JavaScript', 'HTML', 'CSS', 'React', 'Node'];
+matias.speaks  = ['Portuguese', 'Spanish,', 'English', 'Mandarin']
+matias.wishes  = 'to better quality of life using technology';
+matias.email   = 'me.em@outlook.com'
+```
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/matiasdevs)
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasdevs/)
 
 

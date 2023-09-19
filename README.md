@@ -7,7 +7,7 @@
 ```javascript
 let matias = {};
 
-matias.about   = 'a fullstack developer in progress';
+matias.about   = 'a web analytics developer in progress';
 matias.hobbies = ['Games', 'Manga', 'Standup Paddle', 'Rollers'];
 matias.loves   = ['Family', 'Friends', 'My Cat'];
 matias.stack   = ['JavaScript', 'HTML', 'CSS', 'SQL'];
